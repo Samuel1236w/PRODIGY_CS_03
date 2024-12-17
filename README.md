@@ -19,12 +19,13 @@ The Password Complexity Checker helps users ensure their passwords meet recommen
   HOW IT WORKS
 
 The script evaluates the password using regular expressions:
+
 a. It checks the password for specific patterns (uppercase, lowercase, digits, special characters).
 b. Based on the number of criteria met, it classifies the password into one of four categories:
-	•	Strong
-	•	Moderate
-	•	Weak
-	•	Very Weak
+  - Strong
+  - Moderate
+  - Weak
+  - Very Weak
 
 
 
