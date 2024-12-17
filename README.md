@@ -10,12 +10,21 @@ The Password Complexity Checker helps users ensure their passwords meet recommen
    FEATURES
 
    Checks if a password has:
-   - Minimum length of 8 characters
-   - At least one uppercase letter
-   - At least one lowercase letter
-   - At least one digit
-   - At least one special character
- Provides clear feedback on password strength.
- Simple command-line interface for easy use.
+- Minimum length of 8 characters
+- At least one uppercase letter
+- At least one lowercase letter
+- At least one digit
+- At least one special character
+
+  HOW IT WORKS
+
+The script evaluates the password using regular expressions:
+a. It checks the password for specific patterns (uppercase, lowercase, digits, special characters).
+b. Based on the number of criteria met, it classifies the password into one of four categories:
+	•	Strong
+	•	Moderate
+	•	Weak
+	•	Very Weak
+
 
 
