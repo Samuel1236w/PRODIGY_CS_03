@@ -44,7 +44,7 @@ cd password-complexity-checker
 2. Run the Script
 Ensure Python is installed on your system, then execute:
 
-     - python password_checker.py(filename)
+    - python password_checker.py
 
 3. Input Your Password
 Follow the prompts to check your password’s strength
