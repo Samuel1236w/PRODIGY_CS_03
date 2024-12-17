@@ -28,10 +28,10 @@ b. Based on the number of criteria met, it classifies the password into one of f
   - Weak
   - Very Weak
 
-Requirements
+REQUIREMENTS
 
-	•	Python 3.x
-	•	No external libraries required
+  - Python 3.x
+  - No external libraries required
 
 How to Run
 
