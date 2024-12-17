@@ -33,9 +33,9 @@ REQUIREMENTS
   - Python 3.x
   - No external libraries required
 
-How to Run
+HOW TO RUN
 
-	1.	Clone the Repository
+1. Clone the Repository
 
 git clone https://github.com/yourusername/password-complexity-checker.git
 cd password-complexity-checker
