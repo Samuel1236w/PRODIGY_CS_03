@@ -28,5 +28,28 @@ b. Based on the number of criteria met, it classifies the password into one of f
   - Weak
   - Very Weak
 
+Requirements
+
+	•	Python 3.x
+	•	No external libraries required
+
+How to Run
+
+	1.	Clone the Repository
+
+git clone https://github.com/yourusername/password-complexity-checker.git
+cd password-complexity-checker
+
+
+	2.	Run the Script
+Ensure Python is installed on your system, then execute:
+
+python password_checker.py
+
+
+	3.	Input Your Password
+Follow the prompts to check your password’s strength
+
+
 
 
